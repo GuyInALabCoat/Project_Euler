@@ -23,4 +23,4 @@ while(curr < 4000000){
 	Fibonacci();
 }
 
-console.log("Sum of even Fibonacci numbers less than 100: " + sum);
+console.log("Sum of even Fibonacci numbers less than 4 million: " + sum);
